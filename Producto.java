@@ -1,4 +1,3 @@
-
 public class Producto {
 
     // ----- Atributos de instancia -----
