@@ -16,9 +16,10 @@ El proyecto está compuesto por dos clases:
 
 ## Integrantes
 1. ronald yamil soto ramirez
-2. ____________________
-3. ____________________
-4. ____________________
+2. Natalia Milene Rojas Escudero
+3. Alejandro Vicente Cori Contreras
+4. Luigui Alva Sánchez
+5. Sergio Enrique Vargas Fernandez
 
 ## Instrucciones mínimas de ejecución (IntelliJ IDEA)
 1. Abrir IntelliJ IDEA → **New Project** → tipo **Java** (elegir un JDK 11+ instalado).
@@ -49,4 +50,4 @@ java GestionProductos
   código, por ejemplo si cambian atributos, agregan categorías, etc.)*
 
 ## Video de exposición
-Enlace al video de YouTube: ____________________
+Enlace al video de YouTube: 
