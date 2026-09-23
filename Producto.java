@@ -7,7 +7,7 @@ public class Producto {
     private int stockActual;
     private int stockMinimo;
 
-    // ----- Atributo de clase -----
+    // Atributo de clase 
     // Cuenta cuántos productos se han creado en total (compartido por todos los objetos)
     private static int totalProductosCreados = 0;
 
