@@ -15,7 +15,7 @@ El proyecto está compuesto por dos clases:
   objetos `Producto` con un contador/acumulador para llevar el registro.
 
 ## Integrantes
-1. ____________________
+1. ronald yamil soto ramirez
 2. ____________________
 3. ____________________
 4. ____________________
