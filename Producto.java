@@ -1,8 +1,4 @@
-/**
- * Clase Producto
- * Representa un producto de la microempresa: código, nombre, precio,
- * stock actual y stock mínimo permitido.
- */
+
 public class Producto {
 
     // ----- Atributos de instancia -----
