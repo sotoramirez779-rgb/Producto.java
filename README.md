@@ -15,11 +15,11 @@ El proyecto está compuesto por dos clases:
   objetos `Producto` con un contador/acumulador para llevar el registro.
 
 ## Integrantes
-1. Ronald Yamil Soto Ramirez
-2. Natalia Milene Rojas Escudero
-3. Alejandro Vicente Cori Contreras
-4. Luigui Alva Sánchez
-5. Sergio Enrique Vargas Fernandez
+1. Ronald Yamil Soto Ramirez 100%
+2. Natalia Milene Rojas Escudero 100%
+3. Alejandro Vicente Cori Contreras 100%
+4. Luigui Alva Sánchez 100%
+5. Sergio Enrique Vargas Fernandez 100%
 
 ## Instrucciones mínimas de ejecución (IntelliJ IDEA)
 1. Abrir IntelliJ IDEA → **New Project** → tipo **Java** (elegir un JDK 11+ instalado).
