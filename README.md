@@ -50,4 +50,4 @@ java GestionProductos
   código, por ejemplo si cambian atributos, agregan categorías, etc.)*
 
 ## Video de exposición
-Enlace al video de YouTube: 
+Enlace al video de YouTube: https://www.youtube.com/watch?v=8WeixdPDwdY
