@@ -15,7 +15,7 @@ El proyecto está compuesto por dos clases:
   objetos `Producto` con un contador/acumulador para llevar el registro.
 
 ## Integrantes
-1. ronald yamil soto ramirez
+1. Ronald Yamil Soto Ramirez
 2. Natalia Milene Rojas Escudero
 3. Alejandro Vicente Cori Contreras
 4. Luigui Alva Sánchez
